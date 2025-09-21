@@ -26,6 +26,9 @@ Here are some of the projects I've been working on:
 <a href="https://www.linkedin.com/in/dixon-simon-a07699357/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/dixondoesstuff">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <a href="https://dixonsimon.vercel.app">
   <img alt="Portfolio" src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
 </a>
