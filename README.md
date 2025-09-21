@@ -22,10 +22,9 @@ Here are some of the projects I've been working on:
 - **[Science-WebApp-Game-Prototype](https://github.com/dixonsimon/Science-WebApp-Game-Prototype):** A prototype for a science-based web app game.
 
 ## Connect with me:
-[<img align="left" alt="dixonsimon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/dixon-simon-a07699357/
-
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
-
-[Portfolio]:https://dixonsimon.vercel.app
+<a href="https://www.linkedin.com/in/dixon-simon-a07699357/">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://dixonsimon.vercel.app">
+    <img alt="Portfolio" src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
