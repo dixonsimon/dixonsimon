@@ -16,7 +16,7 @@ A passionate student pursuing a B.Sc Hons in Data Analytics at RV University, Ba
 
 Here are some of the projects I've been working on:
 
-- **[My-Portfolio](https://github.com/dixonsimon/My-Portfolio):** My personal portfolio website.
+- **[My-Portfolio](https://github.com/dixonsimon/portfolio):** My personal portfolio website.
 - **[2DSandbox-Game](https://github.com/dixonsimon/2DSandbox-Game):** A 2D sandbox game.
 - **[NammaRation](https://github.com/dixonsimon/NammaRation):** Front-end code for BPL citizens to get their ration.
 - **[Science-WebApp-Game-Prototype](https://github.com/dixonsimon/Science-WebApp-Game-Prototype):** A prototype for a science-based web app game.
