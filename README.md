@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Dixon Simon
 
-A passionate student pursuing a B.Sc Hons in AI/ML at RV University, Bangalore. I'm enthusiastic about learning new technologies and applying them to solve real-world problems.
+A passionate student pursuing a B.Sc Hons in Data Analytics at RV University, Bangalore. I'm enthusiastic about learning new technologies and applying them to solve real-world problems.
 
 ## 🔭 About Me
 
 - 👨‍💻 I'm currently a student at RV University, Bangalore.
-- 🤖 My major is in B.Sc Hons (AI/ML).
+- 🤖 My major is in B.Sc Hons Data Analytics.
 - 🌱 I’m currently learning more about deep learning and its applications.
 - 🤔 I’m looking for help with competitive programming.
 - 💬 Ask me about anything, I am happy to help.
