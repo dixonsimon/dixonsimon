@@ -5,10 +5,9 @@ A passionate student pursuing a B.Sc Hons in Data Analytics at RV University, Ba
 ## 🔭 About Me
 
 - 👨‍💻 I'm currently a student at RV University, Bangalore.
-- 🤖 My major is in B.Sc Hons Data Analytics.
+- 🤖 My major is in B.Sc Hons Artificial Intelligence/Machine Learning.
 - 🌱 I’m currently learning more about deep learning and its applications.
 - 🤔 I’m looking for help with competitive programming.
-- 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [Email](mailto:sdixon182007@gmail.com)
 - 😄 Pronouns: He/Him
 
